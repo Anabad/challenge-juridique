@@ -154,3 +154,29 @@ Toute la gestion interne de l'info pas seulement les dashboards
   - Adds value by processing existing information to create new information which could be used to define and solve problems.
   - Continually learning aware that knowledge has a limited shelf life
   - Use their intellect to convert their ideas into products, services or processes.
+
+## Donnees operationnelles et decisionnelles
+- Operationnelles = brutes, volumineuses, detaillees,  besoin de dispo temps reel
+Decisionnelles = sythetiques, agregees, presentation plus conviviale, perf et dispo - cruciale
+- OLTP: Online transactional processing
+- OLAP : Online analytical processing
+
+## Protection du patrimoine immateriel
+- Securite : Accidentel
+- Surete : Probleme humain
+- Les risques du nomadisme
+  - Vols
+  - Pertes de donnees
+  - Imprudence avions cafes
+  - Espionnage a l'etranger
+  - Virus
+
+## Travail demande
+- Lister dysfonctionnements
+- Etudier forces et faiblesses, opportunites et menaces
+- Pour l'entreprise adverse ce qu'elle est susceptible de mettre en oeuvre
+  - Actions
+  - Ameliorations
+- Pour l'entreprise qui vous a mandate
+  - Des actions a mener y compris plus globalement dans le contexte actuel de l'action en justice
+  - Ameliorations possibles dans l'organisation
